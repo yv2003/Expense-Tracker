@@ -1,0 +1,4 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import '~js-datepicker/dist/datepicker.min.css';
